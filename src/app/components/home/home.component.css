@@ -1,0 +1,11 @@
+.container-fluid {
+    padding: 5px;
+    font-family: "Bangers", cursive;
+    height: 100vh;
+    background: rgb(246, 163, 0);
+    background: radial-gradient(
+      circle,
+      rgba(246, 163, 0, 1) 0%,
+      rgba(237, 78, 0, 1) 100%
+    );
+  }
